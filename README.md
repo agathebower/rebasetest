@@ -2,3 +2,5 @@
 test3
 # rebasetest
 added feature text
+
+added new line
